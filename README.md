@@ -7,7 +7,7 @@
 
 Welcome to **Complete My Project** — a scalable, maintainable, and production-ready web app boilerplate built with **TypeScript** and organized using best practices.
 
-> 🔗 **Live Demo**: [https://vocal-crisp-ceae6d.netlify.app/auth/login](https://vocal-crisp-ceae6d.netlify.app/auth/login)
+> 🔗 **Live Demo**: (https://vocal-crisp-ceae6d.netlify.app/auth/login)
 
 ---
 
